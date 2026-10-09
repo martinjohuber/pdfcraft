@@ -2079,3 +2079,7 @@ action wizard	Start	Starten
 	Squiggly	Schlangenlinie
 	Home / End	Pos1 / Ende
 	H / Space (hold)	H / Leertaste (halten)
+||||||| 7c35809
+	Clear Recent Files	Liste „Zuletzt geöffnet“ leeren
+	Remove from Recent	Aus „Zuletzt geöffnet“ entfernen
+	Remove {name} from Recent	{name} aus „Zuletzt geöffnet“ entfernen
